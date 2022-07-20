@@ -1,4 +1,6 @@
 {
+  "category.modmenu.name": "Mod Menu",
+  "key.modmenu.open_menu": "Open Mod Menu",
   "modmenu.title": "Mods",
   "modmenu.descriptionTranslation.modmenu": "Fügt ein Mod-Menü hinzu, dass die installierten Mods auflistet.",
   "modmenu.loaded": "(%s geladen)",
